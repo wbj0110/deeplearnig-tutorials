@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/soledede/Documents/opensource/tf-stanford-tutorials/examples/tf-learn/cnn/miku_model.tflearn"
+all_model_checkpoint_paths: "/Users/soledede/Documents/opensource/tf-stanford-tutorials/examples/tf-learn/cnn/miku_model.tflearn"
